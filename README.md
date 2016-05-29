@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/dannywillems/ocaml-cordova-plugin-activity-indicator-example.svg?branch=master)](https://travis-ci.org/dannywillems/ocaml-cordova-plugin-activity-indicator-example)
 
 This is an example of the binding to https://github.com/Initsogar/cordova-activityindicator. See the
-binding [here](https://github.com/dannywillems/ocaml-cordova-plugin-activityindicator).
+binding [here](https://github.com/dannywillems/ocaml-cordova-plugin-activity-indicator).
 
 ## How to compile?
 
